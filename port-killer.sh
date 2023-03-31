@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 脚本名称：port-killer
+# 脚本名称：port-killer.sh
 # 脚本用途：根据端口杀掉对应的进程
 # 创建日期：2023/03/29 05:54
 # 作者：rosercode@gmail.com
